@@ -1,2 +1,2 @@
 # keywordology-wip
-Keywords suggestion into terminal in json format
+Suggestion keywords into terminal in json format
