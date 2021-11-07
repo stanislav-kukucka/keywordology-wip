@@ -1,8 +1,3 @@
-#this one works
-#pip3 install requests
-
-
-
 import requests
 import json
 lib1 = input("Enter Base Keyword to Suggest: ")
